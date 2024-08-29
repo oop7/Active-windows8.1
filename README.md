@@ -54,7 +54,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ℹ️ Acknowledgments
 
-- Special thanks to @abbodi1406's KVA and windowsaddict, which was instrumental in this script's functionality.
+- Special thanks to @abbodi1406's KVA and MASSGRAVE, which was instrumental in this script's functionality.
 
 ## ❓ Contact
 
